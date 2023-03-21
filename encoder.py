@@ -25,6 +25,9 @@ while menu_option != 3:
         print('Your password has been encoded and stored!')
         print('')
 
+    elif menu_option == 2:
+
+
 
 
 
